@@ -1,0 +1,20 @@
+.container {
+    margin-top: 8%;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 50px;
+    color: rgb(255, 108, 108);
+}
+
+.stock {
+    padding: 10px;
+}
+
+.stock div {
+    border: 1px solid rgb(231, 231, 231);
+    box-shadow: 1px 1px 3px lightgray;
+    padding: 10px;
+}

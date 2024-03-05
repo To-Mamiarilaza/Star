@@ -1,0 +1,35 @@
+
+.container {
+    margin-top: 8%;
+    padding: 20px;
+    text-align: center;
+}
+
+.listes a {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+h1 {
+    margin-bottom: 50px;
+    color: rgb(255, 108, 108);
+}
+
+span {
+    color: brown;
+}
+
+.formulaire {
+    text-align: left;
+    width: 6    0%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.erreur {
+    font-size: 12px;
+    color: red;
+    margin: 5px;
+}
